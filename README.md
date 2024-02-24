@@ -15,3 +15,22 @@
 
 - https://github.com/MatteoEleouet/DeepLearningEnFrancais
 - https://github.com/MatteoEleouet/DeepLearningEnFrancais/blob/master/LeDeepLearningUneIntroduction.pdf
+
+
+## Math Resources
+
+### Algèbre linéaire
+
+- Algèbre linéaire: https://www.youtube.com/playlist?list=PLyyMJPO8QlkmHyy9aLcW4NNulmq1WTTxs
+
+
+## Stanford Courses
+
+- Stanford Online: https://www.youtube.com/@stanfordonline
+- Stanford CS229: Machine Learning I Spring 2022: https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy
+- Stanford CS230: Deep Learning | Autumn 2018: https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+
+
+## MIT Courses
+
+- Introduction To Deep Learning: http://introtodeeplearning.com/
